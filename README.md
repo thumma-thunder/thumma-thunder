@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thumma-thunder
-- I'm a first-year computer science student at CU Boulder.
-- 👀 I’m interested in learning Python 
-- 🌱 I’m currently learning C++ and JavaScript
+- I'm a second-year computer science student at CU Boulder.
+- 👀 I’m interested in learning Node.js
+- 🌱 I’m currently learning Swift and JavaScript
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me https://www.linkedin.com/in/davidthumma/ 
 
